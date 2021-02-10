@@ -9,8 +9,8 @@
 
 <p align="center"></i><h2 align="center"><I>~My Github Stats </I><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊<I>~</I></g-emoji></h2></p>
 
-<p align="center"><h2 align="center"><img fallback-src="https://github-readme-stats.vercel.app/api?username=atakandenzakdmr&show_icons=true&theme=synthwave" alt="atakandenzakdmr:: Profile Stats" /></p>
+<p align="center"><h2 align="center"><img src="https://github-readme-stats.vercel.app/api?username=atakandenzakdmr&show_icons=true&theme=synthwave" alt="atakandenzakdmr:: Profile Stats" /></p>
 
-<p align="center"><h2 align="center"><img fallback-src="https://github-readme-stats.vercel.app/api/top-langs/?username=atakandenzakdmr&langs_count=10&theme=tokyonight&layout=compact" alt="atakandenzakdmr :: Top Langs" />
+<p align="center"><h2 align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atakandenzakdmr&langs_count=10&theme=tokyonight&layout=compact" alt="atakandenzakdmr :: Top Langs" />
 </p>
 <hr>

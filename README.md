@@ -1,4 +1,5 @@
 ## Welcome to My Profile 👋
+#### Nick: PitaNeoN
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=atakandenzakdmr&color=blueviolet" alt="atakandenzakdmr :: Profile Stats"></a>
 <a href="https://www.linkedin.com/in/atakandenzakdmr" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%40atakandenzakdmr-blue"</a>

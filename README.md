@@ -13,7 +13,5 @@
 <a href="https://www.credly.com/users/atakan-deniz-akdemir" link="yellow"> [Credly] </a> ++ 
 <a href="https://medium.com/@atakandenzakdemr" link="yellow"> [Medium] </a> ++
 <a href="https://www.meetup.com/tr-TR/members/300503703/" link="ocean"> [MeetUp] </a> ++ 
-<a href="https://europa.eu/europass/eportfolio/screen/share/51ca9aad-c0f8-484b-b741-1a47c08e352f?lang=en" link="grey"> [CV] </a>
 <div>  
-
 </p>

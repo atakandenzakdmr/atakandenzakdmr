@@ -11,7 +11,7 @@
 <a href="https://www.hackerrank.com/atakandenzakdmr" link="blue"> [HackerRank] </a> ++ 
 <a href="https://stackoverflow.com/users/16284211/atakan-deniz-akdemir" link="green"> [Stack Overflow] </a> ++ 
 <a href="https://www.credly.com/users/atakan-deniz-akdemir" link="yellow"> [Credly] </a> ++ 
-<a href="https://medium.com/@atakandenzakdemr" link="yellow"> [Medium] </a> ++
+<a href="https://medium.com/@atakandenzakdmr" link="yellow"> [Medium] </a> ++
 <a href="https://www.meetup.com/tr-TR/members/300503703/" link="ocean"> [MeetUp] </a>
 <div>  
 </p>

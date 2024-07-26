@@ -1,13 +1,68 @@
-## Welcome to My Profile 👋
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=atakandenzakdmr&color=blueviolet" alt="atakandenzakdmr :: Profile Stats"></a>
-<a href="https://www.linkedin.com/in/atakandenzakdmr" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%40atakandenzakdmr-blue"</a>
-<a href="https://www.instagram.com/atakandenzakdmr/" <img alt="Instagram" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%40atakandenzakdmr-blueviolet"</a>
-<a href="https://twitter.com/atakandenzakdmr/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%40atakandenzakdmr-blue"</a>
-<a href="mailto:atakandenizakdemir@gmail.com"><img alt="Email" src="https://img.shields.io/badge/E--Mail-atakandenizakdemir%40gmail.com-orange"</a>
-<div align="center">
-<a href="https://www.credly.com/users/atakan-deniz-akdemir" link="yellow"> [Credly] </a> ++ 
-<a href="https://medium.com/@atakandenzakdmr" link="yellow"> [Medium] </a> ++
-<a href="https://www.meetup.com/tr-TR/members/300503703/" link="ocean"> [MeetUp] </a>
-<div>  
-</p>
+<h1 align="left" style="color:blue;">Hello 👋 How's it going?</h1>
+
+###
+
+<p align="left">My name is Atakan Deniz Akdemir, and I work as an Information Systems Engineer. 🚀 I graduated from Muğla Sıtkı Koçman University with a degree in Information Systems Engineering, and I'm currently pursuing a degree in Management Information Systems.📚 I have a strong passion for network technologies and system management. 💙 Right now, I'm actively involved in the IT sector, and in my free time, I enjoy developing applications using Flutter. 📱👀</p>
+
+###
+
+<h2 align="left" style="color:white;" >💻 Tech Stack</h2>
+
+###
+
+<div align="left">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,photoshop,xd,figma,vscode,androidstudio,git,github&theme=dark" />
+  </a>
+ 
+</div>
+
+###
+
+<h2 align="left" style="color:white;" >🌐 My socials</h2>
+
+###
+
+<div align="left">
+  <a href="https://instagram.com/atakandenzakdmr" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.youtube.com/@atakandenzakdmr" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/atakandenzakdmr" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+  <a href="https://atakandenzizakdemir@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+<h2 align="left" style="color:white;" >🔥 GitHub Stats</h2>
+
+<div align="left">
+ 
+  <img src="https://github-readme-stats.vercel.app/api?username=atakandenzakdmr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
+ 
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=atakandenzakdmr&theme=tokyonight&hide_border=false" height="150" alt="stats graph"  />
+ 
+ 
+</div>
+
+###
+
+<a href="https://www.buymeacoffee.com/atakandenzakdmr"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=AmirBayat&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
+
+
+
+
+ 
+
+
+
+
+
+
+  
+ 
